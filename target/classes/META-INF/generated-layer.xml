@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Edit">
+            <file name="nb-editor-ui-actions-ConvertToWindowsPathAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToWindowsOrUnixPathAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToWindowsOrUnixPathAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToWindowsOrUnixPathAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToSnakeCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToSnakeCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToSnakeCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToSnakeCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToHyphenCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToHyphenCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToHyphenCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToHyphenCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInBracesAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInBracesAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInBracesAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInBracesAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToLowerCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToLowerCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToLowerCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToLowerCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInQuotesAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInQuotesAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInQuotesAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInQuotesAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInParenthesisAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInParenthesisAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInParenthesisAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInParenthesisAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToTitleCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToTitleCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToTitleCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToTitleCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-SelectLineAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.SelectLineAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_SelectLineAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.SelectLineAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToPascalCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToPascalCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToPascalCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToPascalCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ExtendSelectionToNextWordAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.SmartSelection-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ExtendSelectionToNextWordAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.SmartSelection"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToUpperSnakeCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToUpperSnakeCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToUpperSnakeCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToUpperSnakeCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInCommasAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInCommasAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInCommasAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInCommasAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToCamelCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToCamelCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToCamelCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToCamelCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToUpperHyphenCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToUpperHyphenCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToUpperHyphenCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToUpperHyphenCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToSentenceCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToSentenceCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToSentenceCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToSentenceCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-ConvertToUpperCaseAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.ConvertToUpperCaseAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_ConvertToUpperCaseAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.ConvertToUpperCaseAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInDoubleQuotesAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInDoubleQuotesAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInDoubleQuotesAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInDoubleQuotesAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="nb-editor-ui-actions-EncloseInBracketsAction.instance">
+                <!--com.github.isarthur.nb.editor.ui.actions.EncloseInBracketsAction-->
+                <attr bundlevalue="com.github.isarthur.nb.editor.ui.actions.Bundle#CTL_EncloseInBracketsAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.github.isarthur.nb.editor.ui.actions.EncloseInBracketsAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Shortcuts">
+        <file name="D-0.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToWindowsOrUnixPathAction-->
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToSentenceCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToSentenceCaseAction.instance"/>
+        </file>
+        <file name="D-3.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToSnakeCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToSnakeCaseAction.instance"/>
+        </file>
+        <file name="D-5.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToHyphenCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToHyphenCaseAction.instance"/>
+        </file>
+        <file name="DS-OPEN_BRACKET.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInBracesAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-EncloseInBracesAction.instance"/>
+        </file>
+        <file name="D-QUOTE.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInQuotesAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-EncloseInQuotesAction.instance"/>
+        </file>
+        <file name="D-9.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInParenthesisAction-->
+            <!--com.github.isarthur.nb.editor.ui.actions.SelectLineAction-->
+            <!--com.github.isarthur.nb.editor.ui.actions.SmartSelection-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ExtendSelectionToNextWordAction.instance"/>
+        </file>
+        <file name="D-7.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToTitleCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToTitleCaseAction.instance"/>
+        </file>
+        <file name="D-2.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToPascalCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToPascalCaseAction.instance"/>
+        </file>
+        <file name="D-4.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToUpperSnakeCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToUpperSnakeCaseAction.instance"/>
+        </file>
+        <file name="D-COMMA.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInCommasAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-EncloseInCommasAction.instance"/>
+        </file>
+        <file name="D-1.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToCamelCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToCamelCaseAction.instance"/>
+        </file>
+        <file name="D-6.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.ConvertToUpperHyphenCaseAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-ConvertToUpperHyphenCaseAction.instance"/>
+        </file>
+        <file name="DS-QUOTE.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInDoubleQuotesAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-EncloseInDoubleQuotesAction.instance"/>
+        </file>
+        <file name="D-OPEN_BRACKET.shadow">
+            <!--com.github.isarthur.nb.editor.ui.actions.EncloseInBracketsAction-->
+            <attr name="originalFile" stringvalue="Actions/Edit/nb-editor-ui-actions-EncloseInBracketsAction.instance"/>
+        </file>
+    </folder>
+</filesystem>

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Case Converter
+OpenIDE-Module-Short-Description: Case conversion, surrounding express
+ ions, converting paths in NetBeans Editor.
+OpenIDE-Module-Long-Description: Case conversion, surrounding expressi
+ ons, converting paths in NetBeans Editor.
+OpenIDE-Module-Display-Category: Editing
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0
+OpenIDE-Module-Build-Version: 202009120735
+OpenIDE-Module: com.github.isarthur.nb.case.converter
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.35, org.openide.util > 9.15, org.netbeans.modules.editor.lib2
+ /1 > 2.28.0.55.3, org.openide.text > 6.75, org.netbeans.modules.edito
+ r.document > 1.17.0.3, org.netbeans.modules.editor.lib/3 > 4.15.0.23.
+ 3.55, org.netbeans.modules.lexer/2 > 1.71.0.1, org.netbeans.modules.j
+ ava.lexer/1 > 1.43
+

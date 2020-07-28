@@ -1,0 +1,7 @@
+com\github\isarthur\nb\editor\encloser\BracketsEncloserTest.class
+com\github\isarthur\nb\editor\encloser\DoubleQuotesEncloserTest.class
+com\github\isarthur\nb\editor\caseconverter\ToWindowsOrUnixPathConverterTest.class
+com\github\isarthur\nb\editor\encloser\BracesEncloserTest.class
+com\github\isarthur\nb\editor\ui\actions\SmartSelectionTest.class
+com\github\isarthur\nb\editor\encloser\ParenthesisEncloserTest.class
+com\github\isarthur\nb\editor\encloser\SingleQuotesEncloserTest.class

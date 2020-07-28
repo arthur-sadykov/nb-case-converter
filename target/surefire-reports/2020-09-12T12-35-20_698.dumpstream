@@ -1,0 +1,15 @@
+# Created at 2020-09-12T12:35:24.782
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-09-12T12:35:24.783
+WARNING: Illegal reflective access by org.netbeans.lib.editor.util.swing.DocumentUtilities (file:/C:/Users/Arthur/.m2/repository/org/netbeans/api/org-netbeans-modules-editor-util/RELEASE120-1/org-netbeans-modules-editor-util-RELEASE120-1.jar) to field javax.swing.text.AbstractDocument.currWriter
+
+# Created at 2020-09-12T12:35:24.785
+WARNING: Please consider reporting this to the maintainers of org.netbeans.lib.editor.util.swing.DocumentUtilities
+
+# Created at 2020-09-12T12:35:24.797
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-09-12T12:35:24.798
+WARNING: All illegal access operations will be denied in a future release
+

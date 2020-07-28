@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.isarthur.nb.case.converter">
+    <module_version install_time="1599896127786" last="true" origin="installer" specification_version="1.0">
+        <file crc="2839632523" name="config/Modules/com-github-isarthur-nb-case-converter.xml"/>
+        <file crc="3203549954" name="modules/com-github-isarthur-nb-case-converter.jar"/>
+    </module_version>
+</module>
